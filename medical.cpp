@@ -323,7 +323,7 @@ int main()
 void intro(){
     cout << "\n\n\n\t     Medical Information System";
     cout << "\n\n\n\n\t     MADE BY:Rokeebat";
-    cout << "\n\n\n\n\t     MATRIC NO:H/CTE/22/0696";
+    cout << "\n\n\n\n\t     MATRIC NO:H/CTE/22/0686";
     cout << "\n\n\n\n\t     SUPERVISOR : ENGR NZUBE";
     cout << "\n\n\n\n\t     SCHOOL : THE FEDERAL POLYTECHNIC ILARO";
     cin.get();
